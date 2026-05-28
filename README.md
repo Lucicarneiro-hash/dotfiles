@@ -51,5 +51,6 @@ These dotfiles work on Windows via [WSL](https://learn.microsoft.com/en-us/windo
 
 - [Oh My Zsh](https://ohmyz.sh)
 - [nvm](https://github.com/nvm-sh/nvm)
+- [rbenv](https://github.com/rbenv/rbenv)
 - [Homebrew](https://brew.sh) (macOS)
 - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) (Windows)
