@@ -1,5 +1,7 @@
 # dotfiles
 
+> [https://github.com/Lucicarneiro-hash/dotfiles](https://github.com/Lucicarneiro-hash/dotfiles)
+
 Personal shell configuration for macOS and Windows (via WSL).
 
 ## Files
