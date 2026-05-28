@@ -49,6 +49,12 @@ These dotfiles work on Windows via [WSL](https://learn.microsoft.com/en-us/windo
    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
    ```
 
+5. Install rbenv:
+   ```sh
+   sudo apt install -y rbenv
+   ln -sf ~/dotfiles/.rbenv-version ~/.rbenv/version
+   ```
+
 ## Tools
 
 - [Oh My Zsh](https://ohmyz.sh)
