@@ -8,6 +8,7 @@ Personal shell configuration for macOS and Windows (via WSL).
 
 - `.zshrc` — Zsh configuration: Oh My Zsh, nvm, and PATH setup
 - `.zprofile` — Login shell configuration: Homebrew environment (macOS only)
+- `.rbenv-version` — rbenv global Ruby version
 
 ## Setup
 
@@ -19,6 +20,7 @@ Clone the repo and symlink the files to your home directory:
 git clone https://github.com/Lucicarneiro-hash/dotfiles.git ~/dotfiles
 ln -sf ~/dotfiles/.zshrc ~/.zshrc
 ln -sf ~/dotfiles/.zprofile ~/.zprofile
+ln -sf ~/dotfiles/.rbenv-version ~/.rbenv/version
 ```
 
 ### Windows (WSL)
